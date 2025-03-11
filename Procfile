@@ -1,1 +1,1 @@
-python cc.py
+worker: python cc.py
